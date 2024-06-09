@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Kaushik 
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning Golang, python and CSS
+- 🌱 I’m skilled in data analytics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divyakaushik0507@gmail.com 
 
